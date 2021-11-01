@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dervalinor
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Machine Learning, Data Science and Blockchain
 - 🌱 I’m currently learning Git and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
